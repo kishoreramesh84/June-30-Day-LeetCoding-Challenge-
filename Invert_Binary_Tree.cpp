@@ -14,7 +14,7 @@
 2) If not swap(root->left,root->right).
 3) Make recursive call for left and right subtrees.
 
-problem link: https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/
+	Problem Link: https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/
 */
 class Solution {
 public:
